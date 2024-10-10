@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cloud.utb</groupId>
-	<artifactId>java-project</artifactId>
+	<artifactId>utb-cloud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>java-project</name>
+	<name>utb-cloud</name>
 	<description>Demo project for UTB Cloud Classes</description>
 	<properties>
 		<java.version>17</java.version>
