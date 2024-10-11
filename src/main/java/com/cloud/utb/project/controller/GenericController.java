@@ -23,6 +23,7 @@ public abstract class GenericController {
                 .response(obj)
                 .build());
     }
+
     protected ResponseEntity<CustomResponse> created(Object obj){
         return ResponseEntity.status(HttpStatus.CREATED).body(CustomResponse
                 .builder()
